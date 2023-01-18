@@ -1,3 +1,31 @@
 html,body{
-    background-color: blanchedalmond;
+    background-color: darkgrey;
+    height: 98%;
+}
+
+.content{
+    max-width: 1000px;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+
+.centerList{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+nav{
+    /* padding: 10px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.button{
+    width: 100%;
+    background-color: darkorange;
+    padding: 15px;
+    border: 2px black solid;
+    border-radius: 10px;
 }
